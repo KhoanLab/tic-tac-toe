@@ -3,7 +3,7 @@
 A simple tic tac toe game using vanilla javascript.
 This repo is used for teaching purpose.
 
-Demo: [https://paultictactoe.surge.sh/](https://paultictactoe.surge.sh/)
+Demo: [https://khoanlab.github.io/tic-tac-toe/](https://khoanlab.github.io/tic-tac-toe/)
 
 ## Game elements
 
